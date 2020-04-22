@@ -6,4 +6,4 @@ for i in range(5):
     print(i)
     print("Hello")
 
-print("These part was modified in galaz branch")
+print("Ok, so i've done new modifications in master branch")
